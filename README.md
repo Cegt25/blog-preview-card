@@ -17,39 +17,25 @@ This is a solution to the [Blog preview card on Frontend Mentor](https://www.fro
 
 ### Links
 
-- Solution URL: https://github.com/Cegt25/QR-code
-- Live Site URL: https://cegt25.github.io/QR-code/
+- Solution URL: https://github.com/Cegt25/blog-preview-card
+- Live Site URL: https://cegt25.github.io/blog-preview-card/
 
 ## My process
 
 ### Built with
 
-- HTML Div Element
+- HTML Semantic
 - CSS custom properties
 - HTML class Attribute
 - CSS class Selector
-- CSS Layout - The position Property
+- BEM methodology
+- CSS Flexbox
 - Media Queries
-
 
 
 ### What I learned
 
 In this project I learned about the positioning of elements, using media queries and basic CSS properties, which will help me improve my knowledge and continue advancing in this world of web page design.
-
-```css
-@media only screen and (max-width: 375px) {
-    .container {
-        width: 100%;
-    }    
-}
-
-.container {
-    background-color: hsl(220, 15%, 55%);
-    width: 100%;
-    height: 800px;
-    position: relative;
-```
 
 
 ### Continued development
